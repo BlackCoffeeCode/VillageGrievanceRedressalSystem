@@ -204,17 +204,17 @@ Without blockchain, accountability collapses.
 git clone https://github.com/BlackCoffeeCode/VillageGrievanceRedressalSystem.git
 cd VillageGrievanceRedressalSystem
 
-### Backend
+Backend
 cd server
 npm install
 npm run dev
 
-### Frontend
+Frontend
 cd client
 npm install
 npm run dev
 
-### 👥 TEAM
+👥 TEAM
 
 Piyush Dhakad - Research & Team Managment
 
