@@ -203,3 +203,23 @@ Without blockchain, accountability collapses.
 ```bash
 git clone https://github.com/BlackCoffeeCode/VillageGrievanceRedressalSystem.git
 cd VillageGrievanceRedressalSystem
+
+### Backend
+cd server
+npm install
+npm run dev
+
+### Frontend
+cd client
+npm install
+npm run dev
+
+### 👥 TEAM
+
+Piyush Dhakad - Research & Team Managment
+
+Vansh Saini - Blockchain Development (NIT Srinagar)
+
+Roshni Dodani – Frontend & UI/UX (NIT Srinagar)
+
+Deepak Patel - Backend Development & System Architecture (NIT Srinagar)
